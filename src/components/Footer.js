@@ -13,19 +13,17 @@ function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
+        <Col md="4" className="footer-copywright"></Col>
         <Col md="4" className="footer-copywright">
-          
-        </Col>
-        <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} Sukrut Rahane</h3>
+          <h3>Copyright © {year} Shrutika Pawar</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/sukrutrahane"
+                href="https://github.com/shrutika"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillGithub />
@@ -33,9 +31,9 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/sukrutrahane"
+                href="https://twitter.com/shrutika"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiOutlineTwitter />
@@ -43,9 +41,9 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/sukrutrahane/"
+                href="https://www.linkedin.com/in/shrutika-p-09a58216a/"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <FaLinkedinIn />
@@ -53,9 +51,9 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/sukrutrahane"
+                href="https://www.instagram.com/the__shrutika____"
                 style={{ color: "white" }}
-                target="_blank" 
+                target="_blank"
                 rel="noopener noreferrer"
               >
                 <AiFillInstagram />

@@ -19,16 +19,16 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am fluent in classics like
-              <i>
-                <b className="purple"> C++ and Python. </b>
-              </i>
+              Working in TCS with 2 years of experience as Java developer
               <br />
               <br />
               I debug more than I code.
               <br />
               <br />
-              My pronouns are <i><b>Jack of All Trades / Master of none</b></i>
+              My pronouns are{" "}
+              <i>
+                <b>Jack of All Trades / Master of none</b>
+              </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -46,7 +46,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/sukrutrahane"
+                  href="https://github.com/shrutika"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -56,7 +56,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/sukrutrahane"
+                  href="https://twitter.com/shrutika"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -66,7 +66,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/sukrutrahane/"
+                  href="https://www.linkedin.com/in/shrutika-p-09a58216a/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -76,7 +76,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/sukkkrut"
+                  href="https://www.instagram.com/the__shrutika____"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
